@@ -1,0 +1,16 @@
+services:
+  bifrost:
+    image: maximhq/bifrost:v2.2.5
+    container_name: bifrost
+    ports:
+      - "8080:8080"
+    environment:
+      BIFROST_SETUP_TOKEN: ${BIFROST_SETUP_TOKEN}
+    volumes:
+      - bifrost_data:/app/data
+    restart: unless-stopped
+
+volumes:
+  bifrost_data:
+    external: true
+    name: 9c8a0acda41148b0b40411065bae8a822d68dd0b99f6f4edbf30d486fa6d43bb
