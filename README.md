@@ -1,4 +1,4 @@
-# Scriblyst
+# Scriblyst - Meeting Intelligence Research Agent
 
 ### Walk into every meeting with the context to ask better questions.
 
