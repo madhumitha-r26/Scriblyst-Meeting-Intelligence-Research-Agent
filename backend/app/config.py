@@ -15,7 +15,7 @@ class Settings(BaseSettings):
     frontend_url: str = "http://localhost:5173"
 
     # AI / Bifrost
-    bifrost_base_url: str = "http://localhost:8080/v1"
+    bifrost_base_url: str = "http://host.docker.internal:8080"
     bifrost_api_key: str = ""
     bifrost_model: str = "groq/openai/gpt-oss-120b"
 
