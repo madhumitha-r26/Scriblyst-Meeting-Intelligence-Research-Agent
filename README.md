@@ -205,8 +205,13 @@ npm run build
 - Restrict CORS origins and configure HTTPS before deployment.
 - Configure and verify OAuth scopes and redirect URIs for the intended deployment.
 
+
 # Screenshots
 ![alt text](<screenshots/Screenshot (32).png>)
 ![alt text](<screenshots/Screenshot (33).png>) ![alt text](<screenshots/Screenshot (34).png>) ![alt text](<screenshots/Screenshot (35).png>)
 
 ![alt text](<screenshots/Screenshot 2026-11-13 132104.png>) ![alt text](<screenshots/Screenshot (30).png>) ![alt text](<screenshots/Screenshot (31).png>) ![alt text](<screenshots/Screenshot 2026-11-13 132015.png>)
+
+
+### Demo Video
+[https://youtu.be/W-g4DV6GWUY](https://youtu.be/W-g4DV6GWUY)
